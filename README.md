@@ -13,7 +13,3 @@
 Let's collaborate and build the future together! 💡🌈
 
 #GitHub #OpenSource #CodeIsLife
-
-```
-
-```
